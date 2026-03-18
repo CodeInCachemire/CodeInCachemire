@@ -18,6 +18,10 @@ Always learning.
 I'm a final year Computer Science student at Saarland University with a strong interest in software and backend development. Having done projects in systems programming, backend development, and low-level computing. I enjoy working across the full stack — from writing interrupt handlers in RISC-V Assembly to designing REST APIs and deploying them on AWS.
 
 - 🌍 Languages: English (C2) · German (C1)
+---
+### What I'm Up To
+
+- 💻 Building FastAPI applications with PostgreSQL.
 
 ---
 
