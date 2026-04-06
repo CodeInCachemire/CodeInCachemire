@@ -37,7 +37,7 @@ I'm a final year Computer Science student at Saarland University with a strong i
 ![Assembly](https://img.shields.io/badge/Assembly_(MIPS%2FRISC--V)-6E4C13?style=for-the-badge)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 
-**Backend & APIs**  
+**Backend & Databases**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
