@@ -62,7 +62,7 @@ I'm a final year Computer Science student at Saarland University with a strong i
 A full-stack solver platform built in C with a production-grade backend and cloud deployment.
 
 ### MIPS IBAN Validator & Generator
-An IBAN validation cloiud deployed service with an unusual twist — the core logic runs in **MIPS Assembly**. 
+An IBAN validation cloud deployed service with an unusual twist — the core logic runs in **MIPS Assembly**. 
 
 --- 
 
