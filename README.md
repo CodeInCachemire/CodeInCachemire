@@ -22,6 +22,7 @@ I'm a final year Computer Science student at Saarland University with a strong i
 ### What I'm Up To
 
 - 💻 Building FastAPI applications with PostgreSQL.
+- 💻 Integrating AI into my applications.
 
 ---
 
