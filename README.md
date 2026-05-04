@@ -65,10 +65,24 @@ I'm a final year Computer Science student at Saarland University with a strong i
 ## Featured Projects
 
 ### C SAT & Sudoku Solver Platform App
-A full-stack solver platform built in C with a production-grade backend and cloud deployment.
+
+A full-stack solver platform built in C with a production-grade backend, distributed job queue, AI-assisted Sudoku extraction, and cloud deployment.
+
+**Live Demos:**
+
+- [Sudoku Solver](https://sudokusolver.ahmadq.me)
+- [Distributed Sudoku Solver Demo](https://sudokusolver.ahmadq.me/async_demo.html)
+- [SAT Solver](https://satsolver.ahmadq.me)
+
+---
 
 ### MIPS IBAN Validator & Generator App
-An IBAN validation cloud deployed service with an unusual twist — the core logic runs in **MIPS Assembly**. 
+
+An IBAN validation and generation service with an unusual twist — the core validation logic runs in **MIPS Assembly**, exposed through a cloud-deployed backend.
+
+**Live Demo:**
+
+- [MIPS IBAN Validator & Generator](https://mips-iban-solver.ahmadq.me)
 
 --- 
 
