@@ -100,9 +100,9 @@ A full-stack solver platform built in C with a production-grade backend, distrib
 
 **Live Demos:**
 
-- [Sudoku Solver](https://sudokusolver.ahmadq.me)
-- [Distributed Sudoku Solver Demo](https://sudokusolver.ahmadq.me/async_demo.html)
-- [SAT Boolen satisfiability Solver](https://satsolver.ahmadq.me)
+- [Sudoku Solver](https://aq.ahmadq.me/sudoku)  
+- [Distributed Sudoku Solver Demo](https://aq.ahmadq.me/async-solver)
+- [SAT Boolen satisfiability Solver](https://aq.ahmadq.me/sat)
 
 ---
 
@@ -112,7 +112,7 @@ An IBAN validation and generation service with an unusual twist — the core val
 
 **Live Demo:**
 
-- [MIPS IBAN Validator & Generator](https://mips-iban-solver.ahmadq.me)
+- [MIPS IBAN Validator & Generator](https://aq.ahmadq.me/mips)
 
 --- 
 
